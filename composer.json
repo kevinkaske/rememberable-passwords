@@ -1,0 +1,16 @@
+{
+	"name": "kevinkaske/rememberable-passwords",
+	"description": "A simple PHP lib to generate simple random temporary passwords for new users",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Kevin Kaske",
+			"email": "kevinkaske@gmail.com"
+		}
+	],
+	"autoload": {
+		"files": [
+			"libs/rememberable-passwords.php"
+		]
+	}
+}
